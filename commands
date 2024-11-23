@@ -10,3 +10,4 @@ cd -
 
 CDPATH=:~:~/src:~/prj/usingcli
 加到这个目录可以直接进入以下目录
+按住两次tab键列出所有补全项
